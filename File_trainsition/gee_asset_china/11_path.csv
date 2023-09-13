@@ -1,0 +1,5 @@
+year,type,path,region
+2014_2016,Fourier,projects/earthengine-legacy/assets/users/dgilm/01_Data_preparation/Fourier_2014_2016,xibei
+2017_2019,Fourier,projects/earthengine-legacy/assets/users/dgilm/01_Data_preparation/Fourier_2017_2019,xibei
+2014_2016,NDVI_NDBI_EVI,projects/earthengine-legacy/assets/users/dgilm/01_Data_preparation/NDVI_NDBI_EVI_2014_2016,xibei
+2017_2019,NDVI_NDBI_EVI,projects/earthengine-legacy/assets/users/dgilm/01_Data_preparation/NDVI_NDBI_EVI_2017_2019,xibei

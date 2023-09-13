@@ -1,0 +1,4 @@
+year,type,path,region
+2017_2019,Fourier,projects/earthengine-legacy/assets/users/nmooney/01_Data_preparation/Fourier_2017_2019,huabei
+2017_2019,Landsat_cloud_free,projects/earthengine-legacy/assets/users/nmooney/01_Data_preparation/Landsat_cloud_free_2017_2019,huabei
+2017_2019,NDVI_NDBI_EVI,projects/earthengine-legacy/assets/users/nmooney/01_Data_preparation/NDVI_NDBI_EVI_2017_2019,huabei

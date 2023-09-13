@@ -1,0 +1,10 @@
+year,type,path,region
+2008_2010,Fourier,projects/earthengine-legacy/assets/users/rvangundy/01_Data_preparation/Fourier_2008_2010,huabei
+2011_2013,Fourier,projects/earthengine-legacy/assets/users/rvangundy/01_Data_preparation/Fourier_2011_2013,huabei
+2014_2016,Fourier,projects/earthengine-legacy/assets/users/rvangundy/01_Data_preparation/Fourier_2014_2016,huabei
+2008_2010,Landsat_cloud_free,projects/earthengine-legacy/assets/users/rvangundy/01_Data_preparation/Landsat_cloud_free_2008_2010,huabei
+2011_2013,Landsat_cloud_free,projects/earthengine-legacy/assets/users/rvangundy/01_Data_preparation/Landsat_cloud_free_2011_2013,huabei
+2014_2016,Landsat_cloud_free,projects/earthengine-legacy/assets/users/rvangundy/01_Data_preparation/Landsat_cloud_free_2014_2016,huabei
+2008_2010,NDVI_NDBI_EVI,projects/earthengine-legacy/assets/users/rvangundy/01_Data_preparation/NDVI_NDBI_EVI_2008_2010,huabei
+2011_2013,NDVI_NDBI_EVI,projects/earthengine-legacy/assets/users/rvangundy/01_Data_preparation/NDVI_NDBI_EVI_2011_2013,huabei
+2014_2016,NDVI_NDBI_EVI,projects/earthengine-legacy/assets/users/rvangundy/01_Data_preparation/NDVI_NDBI_EVI_2014_2016,huabei

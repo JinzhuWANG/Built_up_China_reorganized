@@ -1,0 +1,10 @@
+year,type,path,region
+1990_1992,Fourier,projects/earthengine-legacy/assets/users/ldiaz52/01_Data_preparation/Fourier_1990_1992,huabei
+1993_1995,Fourier,projects/earthengine-legacy/assets/users/ldiaz52/01_Data_preparation/Fourier_1993_1995,huabei
+1996_1998,Fourier,projects/earthengine-legacy/assets/users/ldiaz52/01_Data_preparation/Fourier_1996_1998,huabei
+1990_1992,Landsat_cloud_free,projects/earthengine-legacy/assets/users/ldiaz52/01_Data_preparation/Landsat_cloud_free_1990_1992,huabei
+1993_1995,Landsat_cloud_free,projects/earthengine-legacy/assets/users/ldiaz52/01_Data_preparation/Landsat_cloud_free_1993_1995,huabei
+1996_1998,Landsat_cloud_free,projects/earthengine-legacy/assets/users/ldiaz52/01_Data_preparation/Landsat_cloud_free_1996_1998,huabei
+1990_1992,NDVI_NDBI_EVI,projects/earthengine-legacy/assets/users/ldiaz52/01_Data_preparation/NDVI_NDBI_EVI_1990_1992,huabei
+1993_1995,NDVI_NDBI_EVI,projects/earthengine-legacy/assets/users/ldiaz52/01_Data_preparation/NDVI_NDBI_EVI_1993_1995,huabei
+1996_1998,NDVI_NDBI_EVI,projects/earthengine-legacy/assets/users/ldiaz52/01_Data_preparation/NDVI_NDBI_EVI_1996_1998,huabei

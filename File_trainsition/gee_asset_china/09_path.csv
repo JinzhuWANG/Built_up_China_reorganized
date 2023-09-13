@@ -1,0 +1,5 @@
+year,type,path,region
+2002_2004,Fourier,projects/earthengine-legacy/assets/users/clevine1/01_Data_preparation/Fourier_2002_2004,xibei
+2005_2007,Fourier,projects/earthengine-legacy/assets/users/clevine1/01_Data_preparation/Fourier_2005_2007,xibei
+2002_2004,NDVI_NDBI_EVI,projects/earthengine-legacy/assets/users/clevine1/01_Data_preparation/NDVI_NDBI_EVI_2002_2004,xibei
+2005_2007,NDVI_NDBI_EVI,projects/earthengine-legacy/assets/users/clevine1/01_Data_preparation/NDVI_NDBI_EVI_2005_2007,xibei

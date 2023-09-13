@@ -1,0 +1,7 @@
+year,type,path,region
+2008_2010,Fourier,projects/earthengine-legacy/assets/users/clandrum1/01_Data_preparation/Fourier_2008_2010,xinan
+2011_2013,Fourier,projects/earthengine-legacy/assets/users/clandrum1/01_Data_preparation/Fourier_2011_2013,xinan
+2008_2010,Landsat_cloud_free,projects/earthengine-legacy/assets/users/clandrum1/01_Data_preparation/Landsat_cloud_free_2008_2010,xinan
+2011_2013,Landsat_cloud_free,projects/earthengine-legacy/assets/users/clandrum1/01_Data_preparation/Landsat_cloud_free_2011_2013,xinan
+2008_2010,NDVI_NDBI_EVI,projects/earthengine-legacy/assets/users/clandrum1/01_Data_preparation/NDVI_NDBI_EVI_2008_2010,xinan
+2011_2013,NDVI_NDBI_EVI,projects/earthengine-legacy/assets/users/clandrum1/01_Data_preparation/NDVI_NDBI_EVI_2011_2013,xinan

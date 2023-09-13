@@ -1,0 +1,34 @@
+1) First round
+	[Image]		[Sample]		[classification]
+	dongbei		dongbei			dongbei
+	huabei		huabei			huabei
+	huadong		★zhongnan		huadong
+	xibei		★zhongnan		xibei	
+	xinan		★huadong		xinan
+	zhongnan	zhongnan		zhongnan
+
+2) Second round
+	[Image]		[mask]	
+	dongbei		{precipitation_2010s<550} & {urban_percent>20}
+	huabei		{slope>4} & {urban_percent>20}
+	huadong		{slope>4} & {urban_percent>20}
+	xibei		{{dem>(1000) or (precipitation<500) or (slope>4)} & {urban_percent>20} }		
+	xinan		{dem>3000} & {urban_percent>20}	
+	zhongnan	{slope>4} & {urban_percent>20}	
+
+3) Third round
+	[Image]		[mask]	
+	dongbei		{percentile > 90} & {urban_percent>20}
+	huabei		{percentile > 80} & {urban_percent>20}
+	huadong		{percentile > 60} & {urban_percent>20}
+	xibei		{percentile > 40} & {urban_percent>20}	
+	xinan		 None	
+	zhongnan	{percentile > 95} & {urban_percent>20}
+	patch		{percentile > 70} & {urban_percent>20}
+
+
+
+
+Sources:
+precipitation_2010s		https://www.resdc.cn/DOI/DOI.aspx?DOIID=39
+urban_percent			COPERNICUS/Landcover/100m/Proba-V-C3/Global

@@ -1,0 +1,7 @@
+year,type,path,region
+1996_1998,Fourier,projects/earthengine-legacy/assets/users/enewman4/01_Data_preparation/Fourier_1996_1998,xinan
+1999_2001,Fourier,projects/earthengine-legacy/assets/users/enewman4/01_Data_preparation/Fourier_1999_2001,xinan
+1996_1998,Landsat_cloud_free,projects/earthengine-legacy/assets/users/enewman4/01_Data_preparation/Landsat_cloud_free_1996_1998,xinan
+1999_2001,Landsat_cloud_free,projects/earthengine-legacy/assets/users/enewman4/01_Data_preparation/Landsat_cloud_free_1999_2001,xinan
+1996_1998,NDVI_NDBI_EVI,projects/earthengine-legacy/assets/users/enewman4/01_Data_preparation/NDVI_NDBI_EVI_1996_1998,xinan
+1999_2001,NDVI_NDBI_EVI,projects/earthengine-legacy/assets/users/enewman4/01_Data_preparation/NDVI_NDBI_EVI_1999_2001,xinan

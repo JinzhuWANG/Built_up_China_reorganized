@@ -1,0 +1,7 @@
+Non-built-points:
+	1). 1990-2019 comes from previous visual check against base map [Google/ArcGIS] of 2019
+	2). 2020-2022 comes from visual check against base map [Google/ArcGIS] of 2022
+
+Built-points:
+	1). 1990-2019 comes from previous visual check against base map [Landsat Fourier Composit] of 1990-1992
+	2). 2020-2022 comes from visual check against base map [Google/ArcGIS] of 2022
